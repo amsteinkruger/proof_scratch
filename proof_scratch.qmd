@@ -1,0 +1,14 @@
+---
+title: "Scratch for 6.1.7"
+format: html
+editor: visual
+---
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
